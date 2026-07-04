@@ -1,5 +1,19 @@
 # PLN-SC-2026-01-ProjG3
 
+Anna Carolina Brito Santos Farias - 811448
+
+João Arthur Miguel Ribeiro - 821605
+
+Maristella Ramalho Rangel - 821055
+
+Rodrigo Smith Rodrigues - 821172
+
+Ronan Antonio Pereira Junior - 821626
+
+Vitória Hilgert Tomasel - 821259
+
+---
+
 # Análise de Sentimento Baseada em Aspectos
 
 Utilizamos o dataset [RePro: A Benchmark Dataset for Opinion Mining for Brazilian Portuguese](https://github.com/lucasnil/repro) (DOS SANTOS SILVA et al., 2024). O RePro (REview of PROducts) é um dataset voltado para a mineração de opinião em português brasileiro, ele foi criado com base nos dados da e-commerce brasileira Americanas S.A. O seu objetivo principal é fornecer um recurso valioso para tarefas relacionadas à análise de sentimento e modelagem de tópicos no contexto de avaliações de produtos de e-commerce em português brasileiro.
